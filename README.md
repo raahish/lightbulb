@@ -14,17 +14,18 @@ The goal is to build a platform that solves the biggest obstacle and the most in
 
 ## Current Progress
 
-| Task                                    | Status      | Deadline            |
-|-----------------------------------------|-------------|---------------------|
-| Initial ideation and feature list       | Done        | 25th February, 2019 |
-| Raise Funds (Apply for Jefferson Grant) | Done        | 29th February, 2019 |
-| Wireframing Round 1                     | In Progress | 9th March, 2019     |
-| User Feedback Round 1                   | In Progress | 20th March, 2019    |
-| Wireframing + UI design Round 2         | Pending     | 27th March, 2019    |
-| - [x]                                   |             |                     |
-|                                         |             |                     |
-- [] dfsdf
-- [x] asdfasd
+| Task                                    | Status      | Deadline               |
+|-----------------------------------------|-------------|------------------------|
+| Initial ideation and feature list       | Done        | 25th February, 2019    |
+| Team Building                           | Done        | 25th February, 2019    |
+| Raise Funds (Apply for Jefferson Grant) | Done        | 29th February, 2019    |
+| Wireframing Round 1                     | In Progress | 9th March, 2019        |
+| User Feedback Round 1                   | In Progress | 20th March, 2019       |
+| Wireframing + UI design Round 2         | Pending     | 27th March, 2019       |
+| Tech Development                        | Pending     | 30th April, 2019       |
+| Pilot Launch + User Feedback Round 2    | Pending     | 10th May, 2019         |
+| Launch + Marketing                      | Pending     | Start of Fall Semester |
+
 
 # Header 1
 ## Header 2
